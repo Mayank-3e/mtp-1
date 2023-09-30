@@ -14,6 +14,9 @@ imbalanced-learn = "*"
 seaborn = "*"
 scipy = "*"
 category-encoders = "*"
+tensorflow = "*"
+xgboost = "*"
+scikeras = "*"
 
 [dev-packages]
 
